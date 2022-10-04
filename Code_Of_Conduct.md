@@ -50,7 +50,7 @@ If you are unsure whether an incident is a violation, or whether the space where
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), [version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
-And this is contributed to this Repository as a reference by- [DEEP DAS](https://github.com/myselfdeepdas).
+And this is contributed to this Repository as a reference by- [Hariom Kumar](https://github.com/Hariom510).
 
 
 
